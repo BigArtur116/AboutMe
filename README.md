@@ -8,4 +8,4 @@
 
 Хочу сказать огромное **Спасибо** нашим преподователем и нашей образовательной платформе [**Нетология**](https://netology.ru/)
 
-![Логотип](..https://github.com/BigArtur116/AboutMe/blob/assets/img/%D0%BD%D0%BE%D0%B2%D1%8B%D0%B9-%D0%BB%D0%BE%D0%B3%D0%BE.png)
+![Логотип](../assets/img/%D0%BD%D0%BE%D0%B2%D1%8B%D0%B9-%D0%BB%D0%BE%D0%B3%D0%BE.png)
